@@ -603,4 +603,55 @@ Write a 7-beat script for [topic] in [city]. Hook (3 variants), cold open, setup
 
 #### 7) Deep Idea Mining (Paste & Tweak)
 
+
+## TASK: Produce a photoreal image using my attached photo(s). Keep my identity exactly the same; change only the scene/styling I describe.
+
+IDENTITY LOCK — DO NOT CHANGE:
+- Face geometry and proportions (jawline, chin, cheekbones, nose width/profile, lip shape, eye shape/size, eyebrow shape/thickness, ear shape, hairline).
+- Skin tone and texture, freckles/moles/scars, eye color, teeth shape. No beauty filters or smoothing.
+
+WHAT TO CREATE:
+- Setting/background: {describe precisely}
+- Wardrobe: {describe}
+- Pose & crop: {e.g., ¾ view from the right, head-and-shoulders}
+- Expression: {e.g., soft smile / neutral}
+- Camera look: {e.g., 85mm portrait look, shallow depth of field, natural daylight window lighting}
+- Quality: 4K, photoreal, no watermark, no stylization or “digital art”.
+
+NEGATIVE INSTRUCTIONS:
+- No alteration to facial features or skin texture.
+- No AI artifacts, extra fingers, over-sharpening, skin smoothing, or plastic look.
+
+### TASK: Edit IN PLACE. Keep my facial region unchanged (features, color, texture). Replace only background/wardrobe per instructions.
+
+CHANGE:
+- Background: {describe}
+- Wardrobe: {describe}
+- Global relight to match scene is allowed, but DO NOT alter facial landmarks or proportions.
+
+OUTPUT: Photoreal, natural grain, sRGB, 4K.
+
+ *** If you want multiple results that still look exactly like you
+  
+- Use all attached photos to lock identity. When combining, match these anchors:
+- Face shape: {round/oval/etc.}
+- Notable markers: {e.g., small mole above left lip, faint scar on right eyebrow}
+- Hair: {natural color/length/style}
+
+Keep anchors consistent across all outputs.
+
+- Why likeness sometimes slips (and how to fix it)
+
+1: Low-res/filtered source → use a sharper, unfiltered photo.
+
+2: Big pose change (profile → straight-on) → choose a source at the target angle.
+
+3: Heavy stylization → keep prompts strictly photoreal; avoid “cinematic hyper-real anime oil painting,” etc.
+
+4: Lighting mismatch → allow global relight but forbid geometry changes.
+
+
+
+
+
 You are a [role] in [location, 2025]. Generate 8 niche ideas. First list 10 clichés (ban them). Then list 12 micro-problems, score (Urgency/Budget/Why-Now/Competition 0–10), pick top 8, output with: ICP, Pain, MVP, GTM 90d, Pricing, Risks+2wk test, Why-Now. End with 5 rejected ideas + reasons.
