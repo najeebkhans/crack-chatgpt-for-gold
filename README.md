@@ -602,7 +602,7 @@ Write a 7-beat script for [topic] in [city]. Hook (3 variants), cold open, setup
 
 
 #### 7) Deep Idea Mining (Paste & Tweak)
-
+You are a [role] in [location, 2025]. Generate 8 niche ideas. First list 10 clichés (ban them). Then list 12 micro-problems, score (Urgency/Budget/Why-Now/Competition 0–10), pick top 8, output with: ICP, Pain, MVP, GTM 90d, Pricing, Risks+2wk test, Why-Now. End with 5 rejected ideas + reasons.
 
 ## TASK: Produce a photoreal image using my attached photo(s). Keep my identity exactly the same; change only the scene/styling I describe.
 
@@ -652,6 +652,70 @@ Keep anchors consistent across all outputs.
 
 
 
+## YouTube Thumbnail (MrBeast-style) Template
+TASK: Create a bold, eye-catching YouTube thumbnail in the style of MrBeast.
+
+IDENTITY LOCK — DO NOT CHANGE:
+- Use my uploaded photos to lock my identity.
+- Keep my face 100% accurate (geometry, proportions, skin tone/texture, hairline, beard, eyes).
+- No filters, smoothing, or stylization.
+
+WHAT TO CREATE:
+- Place me on the right side, cutout with glowing turquoise/blue outline, expressive look.
+- On the left: big bold text in bright yellow/red: “{YOUR TITLE HERE}”.
+- Background: {describe scene — e.g., Ilford Lane, a stadium, a beach}.
+- Add oversized themed objects floating around (e.g., food, money, prizes, landmarks).
+
+STYLE:
+- Vibrant colors, fun, energetic, MrBeast-style.
+- 4K, high-contrast, impossible to miss.
+
+## Professional Headshot / LinkedIn Photo
+TASK: Create a professional business headshot.
+
+IDENTITY LOCK — DO NOT CHANGE:
+- Use my uploaded photos to keep face 100% accurate.
+- Preserve skin texture, beard, eyes, hairline — no smoothing, no stylization.
+
+WHAT TO CREATE:
+- Studio-style portrait with soft natural lighting.
+- Neutral background (gray, navy blue, or blurred office).
+- Outfit: {e.g., dark blazer, crisp white shirt}.
+- Expression: Confident, approachable smile.
+
+STYLE:
+- Sharp, realistic, corporate-ready.
+- 4K, photoreal.
+## Travel Instagram Post
+TASK: Create a cinematic travel photo.
+
+IDENTITY LOCK — DO NOT CHANGE:
+- Keep my facial features 100% accurate.
+- Use my uploaded photos to match identity across all outputs.
+
+WHAT TO CREATE:
+- Me standing in {destination — e.g., Santorini cliffside, New York Times Square, Tokyo crossing}.
+- Outfit: {casual/trendy/travel outfit}.
+- Expression: relaxed, amazed, or candid.
+- Lighting: golden hour / cinematic travel vibes.
+
+STYLE:
+- Instagrammable, vibrant colors, slightly cinematic but still natural.
+- 4K, photoreal.
+# Fun / Character Style (Costume, Poster, etc.)
+TASK: Place me in a themed fun scene.
+
+IDENTITY LOCK — DO NOT CHANGE:
+- Keep my face 100% accurate, no stylization.
+- Use my uploaded photos as reference anchors.
+
+WHAT TO CREATE:
+- Outfit: {e.g., superhero costume, medieval knight, astronaut suit}.
+- Background: {space, castle, movie poster style}.
+- Pose/expression: {epic hero stance, smiling, action pose}.
+
+STYLE:
+- Poster-like, bold, cinematic but still photoreal.
+- 4K.
 
 
-You are a [role] in [location, 2025]. Generate 8 niche ideas. First list 10 clichés (ban them). Then list 12 micro-problems, score (Urgency/Budget/Why-Now/Competition 0–10), pick top 8, output with: ICP, Pain, MVP, GTM 90d, Pricing, Risks+2wk test, Why-Now. End with 5 rejected ideas + reasons.
