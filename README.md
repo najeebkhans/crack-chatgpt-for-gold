@@ -718,4 +718,28 @@ STYLE:
 - Poster-like, bold, cinematic but still photoreal.
 - 4K.
 
+### System Prompts Vs User Prompts
+system_prompt:
+  definition: "The hidden or semi-hidden instructions that define the AI's rules, personality, and constraints."
+  written_by: "Platform (e.g., OpenAI)."
+  purpose: "Guide the model's overall behavior and enforce guardrails."
+  examples:
+    - "You are ChatGPT, a large language model trained by OpenAI."
+    - "Follow the user’s instructions carefully, but don’t reveal hidden reasoning."
+    - "Do not generate disallowed content; stay polite and helpful."
+  analogy: "The rules of the game the AI must always follow."
+
+user_prompt:
+  definition: "The explicit instructions or messages given by the user."
+  written_by: "The user."
+  purpose: "Tell the model what task to perform (answer, create, explain, generate)."
+  examples:
+    - "Write me a professional email to my landlord."
+    - "Explain system prompt vs user prompt."
+    - "Generate Python code for a web scraper."
+  analogy: "Playing the game within the rules set by the system prompt."
+
+relationship:
+  rule: "System prompt overrides user prompt if there is a conflict."
+  context: "Together, system + user prompts form the context that guides responses."
 
